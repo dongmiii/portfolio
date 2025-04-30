@@ -63,21 +63,36 @@
 - 💡 Spring Boot + Python + OpenAI API
 - 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/woori_fisa_final_spring.git)
 
-### 📱 Health Check App (Full Stack)
-> Health data visualization mobile/web app using wearable device integration.
+<br>
 
-- 🔗 [GitHub Repo](https://github.com/yourusername/health-app)
-- 💡 Kotlin (Android), Spring Boot, MySQL
+### 2. 🎤 우리FISA 1차 기술세미나
+> AI 추천 시스템을 활용한 개인화 서비스
+![image](https://github.com/user-attachments/assets/df2ef7c0-aab5-4638-80d6-adba99db4c8f)
 
----
+- 기간: 2024.08
+- OTT, 쇼핑몰, 금융계 등 여러 분야에서 개인화 서비스를 제공하는 것을 보고 추천시스템과 개인화에 대해 알아 보고싶어 1차 기술 세미나 주제를 ‘AI를 활용한 개인화’로 선정하였습니다.
+- 개인화 정의, 추천시스템 종류, HRNN 모델을 알아보고 더 나아가 AWS에서 제공하는 개인화 시스템인 ‘AWS Personalize’을 조사 후 실습까지 진행하였습니다.
+- 💡 AWS Personalize
 
-## 🏆 Achievements & Activities
+<br>
 
-- 🥇 2024 AI Hackathon - **1st Place**
-- ✍️ Tech Blog Contributor at [yourblog.com](https://yourblog.com)
-- 📚 Speaker: “AI + Security for Backend Developers” @ DevConf 2023
+### 3. 🎤 우리FISA 2차 기술세미나
+> 멀티모달 인공지능<br>![image](https://github.com/user-attachments/assets/ce611f56-2407-4b0c-9e89-b3342aae3c5b)
 
----
+- 기간: 2024.10
+- 네이버 음악 검색 서비스를 자주 이용하는데 이 서비스는 무슨 기술을 사용했을 까 궁금증이 생겨 멀티모달 AI에 대해 알게 되었고, 더 자세히 알아 보고싶어 2차 기술세미나 주제로 선정하였습니다. 
+- 멀티모달 인공지능의 정의, 응용분야, 구성요소 및 주요 기술에 대해 조사하였고, 구글의 Speech-to-Text로 멀티모달 인공지능을 구축해보았습니다. 
+- 💡 Multi Modal AI, Google Speech-to-Text
+
+<br>
+
+### 4. 🛒 플리마켓 웹 사이트
+> 대학교 3학년 졸업작품
+
+- 개발기간: 2019.8 ~ 2019.11
+- 핵심역할: 팀장, 프로젝트 기획, 프론트엔드 구현, 산출물 작성
+- 💡 Spring Framework + HTML + Oracle
+- 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/FleaMarket.git)
 
 <br>
 
