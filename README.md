@@ -61,7 +61,8 @@
 - 개발기간: 2024.10 ~ 2024.12
 - 핵심역할: Thymeleaf UI 개발, Spring Boot 백엔드 개발
 - 💡 Spring Boot + Python + OpenAI API
-- 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/woori_fisa_final_spring.git)
+- 🔗 [프로젝트 상세 설명 - Spring Boot](https://github.com/dongmiii/woori_fisa_final_spring.git)
+- 🔗 [프로젝트 상세 설명 - Python](https://github.com/dongmiii/woori_fisa_final_python.git)
 
 <br>
 
