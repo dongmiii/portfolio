@@ -55,11 +55,13 @@
 
 ## 💼 Projects
 
-### 🧠 AI-based Code Review Assistant
-> A code review tool using GPT to analyze PRs and suggest improvements.
+### 1. 💸 개인 맞춤 종합 소비 플랫폼
+> 우리FIS아카데미 최종 프로젝트
 
-- 🔗 [GitHub Repo](https://github.com/yourusername/code-review-assistant)
-- 💡 Python + OpenAI API + GitHub Actions
+- 개발기간: 2024.10 ~ 2024.12
+- 핵심역할: Thymeleaf UI 개발, Spring Boot 백엔드 개발
+- 💡 Spring Boot + Python + OpenAI API
+- 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/woori_fisa_final_spring.git)
 
 ### 📱 Health Check App (Full Stack)
 > Health data visualization mobile/web app using wearable device integration.
