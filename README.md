@@ -18,7 +18,7 @@
 ## 🔧 Skills
 
 
-### 🖥️ Languages
+### 💬 Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -94,7 +94,17 @@
 
 <br>
 
-### 4. 💪🏻 건강관리 웹 사이트
+### 4. 🖥 React 웹 사이트
+> 개인 프로젝트<br>
+
+- 개발기간: 2024.04 ~ 2024.07
+- 핵심역할: 프로젝트 기획, 프론트엔드 구현
+- 💡 React + .net Core + MSSQL
+- 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/FleaMarket.git)
+
+<br>
+
+### 5. 💪🏻 건강관리 웹 사이트
 > 대학교 4학년 졸업작품<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8c15c54-5977-4197-862e-cbb2597bf031" width="45%" />
@@ -107,7 +117,7 @@
 
 <br>
 
-### 5. 🛒 플리마켓 웹 사이트
+### 6. 🛒 플리마켓 웹 사이트
 > 대학교 3학년 졸업작품
 
 - 개발기간: 2019.8 ~ 2019.11
