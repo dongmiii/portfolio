@@ -67,8 +67,11 @@
 <br>
 
 ### 2. 🎤 우리FISA 1차 기술세미나
-> AI 추천 시스템을 활용한 개인화 서비스
-![image](https://github.com/user-attachments/assets/df2ef7c0-aab5-4638-80d6-adba99db4c8f)
+> AI 추천 시스템을 활용한 개인화 서비스<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/df2ef7c0-aab5-4638-80d6-adba99db4c8f" width="45%" />
+  <img src="https://github.com/user-attachments/assets/c18bcab6-38a6-460a-a21a-62cf55683649" width="45%" />
+</p>
 
 - 기간: 2024.08
 - OTT, 쇼핑몰, 금융계 등 여러 분야에서 개인화 서비스를 제공하는 것을 보고 추천시스템과 개인화에 대해 알아 보고싶어 1차 기술 세미나 주제를 ‘AI를 활용한 개인화’로 선정하였습니다.
@@ -78,7 +81,11 @@
 <br>
 
 ### 3. 🎤 우리FISA 2차 기술세미나
-> 멀티모달 인공지능<br>![image](https://github.com/user-attachments/assets/ce611f56-2407-4b0c-9e89-b3342aae3c5b)
+> 멀티모달 인공지능<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b91274e-71d5-41b7-a481-03b7d6e5a870" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ce611f56-2407-4b0c-9e89-b3342aae3c5b" width="45%" />
+</p>
 
 - 기간: 2024.10
 - 네이버 음악 검색 서비스를 자주 이용하는데 이 서비스는 무슨 기술을 사용했을 까 궁금증이 생겨 멀티모달 AI에 대해 알게 되었고, 더 자세히 알아 보고싶어 2차 기술세미나 주제로 선정하였습니다. 
@@ -87,7 +94,20 @@
 
 <br>
 
-### 4. 🛒 플리마켓 웹 사이트
+### 4. 💪🏻 건강관리 웹 사이트
+> 대학교 4학년 졸업작품<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8c15c54-5977-4197-862e-cbb2597bf031" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5e33ca7f-90f8-47b3-804a-a00001e64a13" width="45%" />
+</p>
+
+- 개발기간: 2020.10 ~ 2020.12
+- 핵심역할: 프로젝트 기획, 프론트엔드 구현, 산출물 작성
+- 💡 JSP + HeidiSQL + BootStrap
+
+<br>
+
+### 5. 🛒 플리마켓 웹 사이트
 > 대학교 3학년 졸업작품
 
 - 개발기간: 2019.8 ~ 2019.11
