@@ -1,8 +1,7 @@
 # 🌟 함동미 포트폴리오
 안녕하세요, 풀스택 개발자 함동미입니다.
 
-📫 ehdal1215@naver.com  
-🌐 [GitHub](https://github.com/yourusername) | [Blog](https://yourblog.com) | [Resume](https://yourwebsite.com/resume.pdf)
+📫 ehdal1215@naver.com
 
 <br>
 
