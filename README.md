@@ -1,5 +1,5 @@
 # 🌟 함동미 포트폴리오
-안녕하세요, 풀스택 개발자 함동미입니다.
+안녕하세요, 개발자 함동미입니다.
 
 📫 ehdal1215@naver.com
 
@@ -110,7 +110,19 @@
 
 <br>
 
-### 5. 💪🏻 건강관리 웹 사이트
+### 5. 👚 쇼핑몰 운영
+> 쇼핑몰 UI 기획 및 제작<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22fad9fa-13dc-41f5-abda-66f48d8d8f81" width="45%" />
+</p>
+
+- 개발기간: 2023.10 ~ 2024.05
+- 핵심역할: '아임웹' 웹 빌더 서비스를 이용하여 쇼핑몰 UI을 제작
+- 💡 아임웹 + HTML + CSS
+
+<br>
+
+### 6. 💪🏻 건강관리 웹 사이트
 > 대학교 4학년 졸업작품<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8c15c54-5977-4197-862e-cbb2597bf031" width="45%" />
@@ -123,7 +135,7 @@
 
 <br>
 
-### 6. 🛒 플리마켓 웹 사이트
+### 7. 🛒 플리마켓 웹 사이트
 > 대학교 3학년 졸업작품
 
 - 개발기간: 2019.8 ~ 2019.11
