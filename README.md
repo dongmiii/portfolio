@@ -135,7 +135,11 @@
 <br>
 
 ### 7. 🛒 플리마켓 웹 사이트
-> 대학교 3학년 졸업작품
+> 대학교 3학년 졸업작품<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f8c15c54-5977-4197-862e-cbb2597bf031" width="45%" />
+  <img src="https://github.com/user-attachments/assets/5e33ca7f-90f8-47b3-804a-a00001e64a13" width="45%" />
+</p>
 
 - 개발기간: 2019.8 ~ 2019.11
 - 핵심역할: 팀장, 프로젝트 기획, 프론트엔드 구현, 산출물 작성
