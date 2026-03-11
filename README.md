@@ -138,6 +138,7 @@
 > 대학교 3학년 졸업작품<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d136ba0-e2ff-4f6c-86b6-504e06ef251d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a54711b3-f514-40b3-9a2b-bb399df4371f" width="45%" />
 </p>
 
 - 개발기간: 2019.8 ~ 2019.11
