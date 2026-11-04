@@ -113,16 +113,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 
 <br>
 
-### 4. 🖥 React 웹 사이트
-> 개인 프로젝트<br>
-
-- 개발기간: 2024.04 ~ 2024.07
-- 핵심역할: 프로젝트 기획, 프론트엔드 구현
-- 💡 React + .net Core + MSSQL
-
-<br>
-
-### 5. 👚 쇼핑몰 운영
+### 4. 👚 쇼핑몰 운영
 > 쇼핑몰 UI 기획 및 제작<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/22fad9fa-13dc-41f5-abda-66f48d8d8f81" width="45%" />
@@ -134,7 +125,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 
 <br>
 
-### 6. 💪🏻 건강관리 웹 사이트
+### 5. 💪🏻 건강관리 웹 사이트
 > 대학교 4학년 졸업작품<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8c15c54-5977-4197-862e-cbb2597bf031" width="45%" />
@@ -147,7 +138,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 
 <br>
 
-### 7. 🛒 플리마켓 웹 사이트
+### 6. 🛒 플리마켓 웹 사이트
 > 대학교 3학년 졸업작품<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0d136ba0-e2ff-4f6c-86b6-504e06ef251d" width="45%" />
@@ -162,5 +153,5 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 <br>
 
 ## 📞 Contact
-- 📱 
-- ✉ 
+- 📱 010.6502.2251
+- ✉ ehdal1215@naver.com
