@@ -22,6 +22,12 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 
+### 🤖 AI & AI Tools
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Personalize](https://img.shields.io/badge/AWS%20Personalize-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Speech-to-Text](https://img.shields.io/badge/Google%20Speech--to--Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 ### 📱 Frontend & Mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -48,12 +54,6 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-
-### 🤖 AI & Data
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![AWS Personalize](https://img.shields.io/badge/AWS%20Personalize-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Speech-to-Text](https://img.shields.io/badge/Google%20Speech--to--Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 <br>
 
