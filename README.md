@@ -59,7 +59,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 - JSON 기반 Request/Response 구조 적용 및 기존 비즈니스 로직의 기능 정합성 검증
 - Postman을 활용한 API 단위 테스트 및 데이터 처리 결과 검증
 - 로그 및 코드 분석을 통한 오류 원인 파악과 수정
-- MySQL 5.7에서 8.4로 데이터베이스 버전 업그레이드 및 SQL 인덱스 최적화
+- MySQL 5.7에서 8.4로 데이터베이스 버전 업그레이드 및 SQL 인덱스 최적화 <br>
 💡 Tech Stack: Java 17, Spring Boot 3, MyBatis, MySQL 8.4, Postman
 
 > 은행 정산용 기기(TCR) 프로그램 유지보수 및 앱 개발 <br>
