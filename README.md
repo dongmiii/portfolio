@@ -20,12 +20,12 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mysql&color=525252)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white)
 
 ### 📱 Frontend & Mobile
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=leaflet&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) <br>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -42,12 +42,18 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white) <br>
-![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
-![Static Badge](https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=DOCKER&logoColor=2496ED)
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white) <br>
+![Android Studio](https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+### 🤖 AI & Data
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AWS Personalize](https://img.shields.io/badge/AWS%20Personalize-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Speech-to-Text](https://img.shields.io/badge/Google%20Speech--to--Text-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 <br>
 
@@ -55,11 +61,11 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 > 고성능병렬처리시스템 | CFMS(암호 해독 시스템) REST API 개발 <br>
 > 2026. 06 ~ 2026. 10 | 클루드인 | SI 사업부 | 계약직
 - 기존 Spring MVC 기반 레거시 시스템의 Controller, Service, Mapper 및 SQL 구조 분석
-- 기존 기능 111개를 신규 Spring Boot 프로젝트로 이관하고 REST API 규격에 맞게 재구현
-- JSON 기반 Request/Response 구조 적용 및 기존 비즈니스 로직의 기능 정합성 검증
+- 기존 111개 기능을 신규 Spring Boot 프로젝트로 이관
+- JSON 기반 Request/Response 구조 적용 및 기존 시스템과 신규 시스템 간 비즈니스 로직 및 기능 정합성 검증
 - Postman을 활용한 API 단위 테스트 및 데이터 처리 결과 검증
 - 로그 및 코드 분석을 통한 오류 원인 파악과 수정
-- MySQL 5.7에서 8.4로 데이터베이스 버전 업그레이드 및 SQL 인덱스 최적화 <br>
+- MySQL 5.7에서 8.4로 버전 업그레이드 및 SQL 인덱스 최적화 <br>
 💡 Tech Stack: Java 17, Spring Boot 3, MyBatis, MySQL 8.4, Postman
 
 > 은행 정산용 기기(TCR) 프로그램 유지보수 및 앱 개발 <br>
@@ -93,8 +99,8 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 </p>
 
 - 기간: 2024.08
-- OTT, 쇼핑몰, 금융계 등 여러 분야에서 개인화 서비스를 제공하는 것을 보고 추천시스템과 개인화에 대해 알아 보고싶어 1차 기술 세미나 주제를 ‘AI를 활용한 개인화’로 선정하였습니다.
-- 개인화 정의, 추천시스템 종류, HRNN 모델을 알아보고 더 나아가 AWS에서 제공하는 개인화 시스템인 ‘AWS Personalize’을 조사 후 실습까지 진행하였습니다.
+- OTT, 쇼핑몰, 금융 등 다양한 분야에서 개인화 서비스가 활용되는 것을 보고 추천 시스템과 개인화 기술에 관심을 갖게 되어 세미나 주제로 선정하였습니다.
+- 개인화의 정의와 추천 시스템의 종류, HRNN 모델을 조사하고 AWS Personalize를 활용한 개인화 추천 시스템 실습을 진행하였습니다.
 - 💡 AWS Personalize
 
 <br>
@@ -107,8 +113,8 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 </p>
 
 - 기간: 2024.10
-- 네이버 음악 검색 서비스를 자주 이용하는데 이 서비스는 무슨 기술을 사용했을 까 궁금증이 생겨 멀티모달 AI에 대해 알게 되었고, 더 자세히 알아 보고싶어 2차 기술세미나 주제로 선정하였습니다. 
-- 멀티모달 인공지능의 정의, 응용분야, 구성요소 및 주요 기술에 대해 조사하였고, 구글의 Speech-to-Text로 멀티모달 인공지능을 구축해보았습니다. 
+- 네이버 음악 검색 서비스에 사용되는 기술에 대한 궁금증을 계기로 멀티모달 AI에 관심을 갖게 되어 세미나 주제로 선정하였습니다.
+- 멀티모달 인공지능의 정의, 응용 분야, 구성 요소 및 주요 기술을 조사하고 Google Speech-to-Text를 활용한 실습을 진행하였습니다.
 - 💡 Multi Modal AI, Google Speech-to-Text
 
 <br>
@@ -120,7 +126,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 </p>
 
 - 개발기간: 2023.10 ~ 2024.05
-- 핵심역할: '아임웹' 웹 빌더 서비스를 이용하여 쇼핑몰 UI을 제작
+- 핵심역할: 아임웹 웹 빌더를 활용한 쇼핑몰 UI 기획 및 제작
 - 💡 아임웹 + HTML + CSS
 
 <br>
@@ -134,7 +140,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 
 - 개발기간: 2020.10 ~ 2020.12
 - 핵심역할: 프로젝트 기획, 프론트엔드 구현, 산출물 작성
-- 💡 JSP + HeidiSQL + BootStrap
+- 💡 JSP + HeidiSQL + Bootstrap
 
 <br>
 
@@ -145,7 +151,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
   <img src="https://github.com/user-attachments/assets/a54711b3-f514-40b3-9a2b-bb399df4371f" width="45%" />
 </p>
 
-- 개발기간: 2019.8 ~ 2019.11
+- 개발기간: 2019.08 ~ 2019.11
 - 핵심역할: 팀장, 프로젝트 기획, 프론트엔드 구현, 산출물 작성
 - 💡 Spring Framework + HTML + Oracle
 - 🔗 [프로젝트 상세 설명](https://github.com/dongmiii/FleaMarket.git)
@@ -153,5 +159,4 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 <br>
 
 ## 📞 Contact
-- 📱 010.6502.2251
 - ✉ ehdal1215@naver.com
