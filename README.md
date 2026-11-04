@@ -54,11 +54,13 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 ## 💼 Career
 > 고성능병렬처리시스템 | CFMS(암호 해독 시스템) REST API 개발 <br>
 > 2026. 06 ~ 2026. 10 | 클루드인 | SI 사업부 | 계약직
-- REST API 정의서를 기반으로 레거시 Controller, Service, Mapper 및 SQL 구조를 분석하고 신규 Spring Boot 프로젝트로 기능 이관
-- 기존 비즈니스 로직과 데이터 처리 흐름을 분석하여 REST API 규격에 맞게 요청·응답 구조 및 기능 재구현
-- Postman을 활용한 API 단위 테스트 및 Request/Response, DB 데이터 처리 결과 검증
-- 로그 및 코드 분석을 통한 오류 원인 파악과 수정, 기존 시스템과의 기능 정합성 검증 <br>
-💡사용 기술: Java 17, Spring Boot 3, MyBatis, MySQL 8.4, Postman, Claude Code
+- 기존 Spring MVC 기반 레거시 시스템의 Controller, Service, Mapper 및 SQL 구조 분석
+- 기존 기능 111개를 신규 Spring Boot 프로젝트로 이관하고 REST API 규격에 맞게 재구현
+- JSON 기반 Request/Response 구조 적용 및 기존 비즈니스 로직의 기능 정합성 검증
+- Postman을 활용한 API 단위 테스트 및 데이터 처리 결과 검증
+- 로그 및 코드 분석을 통한 오류 원인 파악과 수정
+- MySQL 5.7에서 8.4로 데이터베이스 버전 업그레이드 및 SQL 인덱스 최적화
+💡 Tech Stack: Java 17, Spring Boot 3, MyBatis, MySQL 8.4, Postman
 
 > 은행 정산용 기기(TCR) 프로그램 유지보수 및 앱 개발 <br>
 > 2022. 04 ~ 2022. 10 | (주)에이텍에이피 | TCR상품화개발 | 정규직
@@ -66,7 +68,7 @@ Backend를 중심으로 Frontend와 AI 기술을 이해하고 활용하며,
 - TCR 프로그램 설치 및 테스트 케이스 작성, 기능 테스트 수행
 - Flutter·Dart를 활용한 에러 코드 조회 모바일 앱 개발
 - Bluetooth 통신을 활용한 PC-모바일 간 파일 전송 앱 개발 <br>
-💡사용 기술: Java, Flutter, Dart, SQLite
+💡 Tech Stack: Java, Flutter, Dart, SQLite
 
 <br>
 
